@@ -20,10 +20,5 @@ It gave me hands-on experience with building, styling, and adding functionality 
 - **CSS**
 - **JavaScript**
 
-## 📸 Screenshots
-_Add your project screenshots here_  
 
-## 📂 How to Run
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+ 
