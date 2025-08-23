@@ -1,6 +1,6 @@
 # My-Learnings.
 
-# [Project Name]  
+# REVISION
 
 A beginner-friendly project I created while learning web development.  
 It helped me practice **HTML**, **CSS**, and **JavaScript** fundamentals while building something functional and interactive.  
